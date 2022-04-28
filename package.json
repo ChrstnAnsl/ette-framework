@@ -1,20 +1,20 @@
 {
   "name": "ette-framework",
-  "version": "1.0.2",
+  "version": "1.0.8",
   "description": "Ette Framework the new testing framework built in NodeJS",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chanfrnndz/nsl.git"
+    "url": "git+https://github.com/chanfrnndz/ette-framework"
   },
   "author": "christianansel.fernandez@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chanfrnndz/nsl/issues"
+    "url": "https://github.com/chanfrnndz/ette-framework/issues"
   },
-  "homepage": "https://github.com/chanfrnndz/nsl#readme",
+  "homepage": "https://github.com/chanfrnndz/ette-framework#readme",
   "dependencies": {
-    "ette-framework": "^1.0.2"
+    "ette-framework": "^1.0.8"
   }
 }
